@@ -23,7 +23,7 @@ Aquí están algunos de mis proyectos más destacados en GitHub:
 ## Contacto
 Si deseas ponerte en contacto conmigo, no dudes en hacerlo a través de:
 
-- 📧 Email: karengphotmail.com.ar
+- 📧 Email: karendegopi@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/karen-piera-555631277/
 
 ¡Gracias por visitar mi perfil! Estoy emocionada de compartir mi pasión por la programación y colaborar en proyectos emocionantes.
