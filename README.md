@@ -17,6 +17,8 @@ Aquí están algunos de mis proyectos más destacados en GitHub:
 - **RentCard2:** Una plataforma de alquiler de autos desarrollada con tecnologías Fullstack. [Ver Proyecto](http://pf-rent-car2-1us3pfgxe-aldovelacasas.vercel.app
 )
 - **Dogs.Vite:** Una página de razas de perros desarrollada con Vite y React. [Ver Proyecto](https://github.com/karenpiera/Dogs-Vite)
+- **Admin:** Una app creada para la administracion de series en stock, con crud completo. Desarrolado con Next.js y React. [Ver Proyecto](https://github.com/karenpiera/Admin)
+
 - **RICK_AND_MORTY:** Una página de tarjetas de Rick and Morty. [Ver Proyecto](https://github.com/karenpiera/RICK_AND_MORTY)
 
 
