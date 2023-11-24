@@ -11,6 +11,11 @@
 - **Backend:** Node.js, Express, PostgreSQL, MySQL.
 - **Herramientas:** Vite, Next.js.
 
+## Mi Portafolio
+
+- **Mi Portafolio:** Aquí mismo estás viendo mi portafolio, que es un reflejo de mi habilidad y pasión por el desarrollo web. [Explorar Portafolio](https://porfolio-dun-alpha.vercel.app/)
+
+
 ## Mis Proyectos Destacados
 Aquí están algunos de mis proyectos más destacados en GitHub:
 
@@ -23,7 +28,7 @@ Aquí están algunos de mis proyectos más destacados en GitHub:
 
 
 ## Contacto
-Si deseas ponerte en contacto conmigo, no dudes en hacerlo a través de:
+Si deseas ponerte en contacto conmigo o discutir posibles colaboraciones, no dudes en hacerlo a través de:
 
 - 📧 Email: karendegopi@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/karen-piera-555631277/
